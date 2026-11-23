@@ -1,0 +1,7 @@
+Order_ID,Order_Date,Region,Category,Sub_Category,Sales,Quantity,Profit
+ORD-101,2025-01-10,West,Electronics,Phones,25000,2,4000
+ORD-102,2025-01-15,South,Furniture,Chairs,12000,3,-1500
+ORD-103,2025-02-05,North,Electronics,Laptops,65000,1,9500
+ORD-104,2025-02-20,East,Office Supplies,Paper,1500,5,400
+ORD-105,2025-03-12,West,Furniture,Tables,18000,1,-2200
+ORD-106,2025-03-25,South,Electronics,Headphones,4500,3,1200

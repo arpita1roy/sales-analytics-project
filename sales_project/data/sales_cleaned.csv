@@ -1,0 +1,7 @@
+Order_ID,Order_Date,Region,Category,Sub_Category,Sales,Quantity,Profit,Profit_Margin_Pct,Avg_Price_Per_Unit
+ORD-101,2025-01-10,West,Electronics,Phones,25000,2,4000,16.0,12500.0
+ORD-102,2025-01-15,South,Furniture,Chairs,12000,3,-1500,-12.5,4000.0
+ORD-103,2025-02-05,North,Electronics,Laptops,65000,1,9500,14.615384615384617,65000.0
+ORD-104,2025-02-20,East,Office Supplies,Paper,1500,5,400,26.666666666666668,300.0
+ORD-105,2025-03-12,West,Furniture,Tables,18000,1,-2200,-12.222222222222221,18000.0
+ORD-106,2025-03-25,South,Electronics,Headphones,4500,3,1200,26.666666666666668,1500.0
